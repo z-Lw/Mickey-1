@@ -19,7 +19,6 @@ body {
 }
 .container {
   max-width: 800px;
-  border: 1px solid red;
   margin: auto;
   margin-top: 200px;
   height: 500px;
