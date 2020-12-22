@@ -16,7 +16,7 @@ body {
 /*再画一个黑色的圆*/
 .head {
   position: relative;
-  top: 50%;
+  top: 40%;
   transform: translateY(-50%);
   background-color: black;
   height: 200px;
